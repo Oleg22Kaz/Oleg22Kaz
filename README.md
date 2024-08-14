@@ -3,6 +3,7 @@
 Hi! My name is Oleg - I am a beginner QA Engineer
 
 About me
+##  I'am a beginner tester and currently live in Armenia.
 
 My CV
 
