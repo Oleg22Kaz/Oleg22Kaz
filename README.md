@@ -4,8 +4,11 @@
 
 ## About me
 I'am a beginner tester and currently live in Armenia.
+
 Courses: https://stepik.org/course/171826/syllabus
+
 Literature:
+
 - Святослав Куликов. Тестирование программного обеспечения.Базовый курс
 - ISTQB. Сертифицированный тестировщик. Тестирование игр (CT-GaMe)
 
